@@ -22,7 +22,8 @@ Workflow
 8. Write the ingredients and their occurrences into two lists, which can be used with the plotly library to produce a graph of the most used ingredients.
 
 Additional information and instructions can be found in comments of the code files.
-For copyright reasons I can't upload the full OCR'd text.
+
+For copyright reasons I can't upload the full OCR'd text, but have included the list of ingredients as ingredients.txt.
 
 Conclusions
 
