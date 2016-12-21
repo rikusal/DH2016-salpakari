@@ -1,6 +1,6 @@
 # DH2016-salpakari
 
-Digital Humanities course work. OCR and datavisualization.
+Digital Humanities course work. OCR and data visualization.
 
 What does it do?
 
