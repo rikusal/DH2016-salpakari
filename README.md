@@ -8,7 +8,7 @@ Two bash scripts and a small python program to OCR a handscanned cookbook and to
 
 Corpus and research questions
 
-My corpus isn't much of a corpus, just a single book, 'Kiireisen keittokirja' by Juha Heikinheimo and Marjaleena Nordlund from 1975. My goal is to produce a list of ingredients and how many times they are mentioned. The project is also supposed to be a prove of concept kinda thing to test if computational methods could be used as a part of my master's thesis.
+My corpus isn't much of a corpus, just a single book, 'Kiireisen keittokirja' by Juha Heikinheimo and Marjaleena Nordlund from 1975. My goal is to produce a list of ingredients and how map many times they are mentioned. The project is also supposed to be a proof of concept kinda thing to test if computational methods could be used as a part of my master's thesis.
 
 Workflow
 
